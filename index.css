@@ -1,0 +1,43 @@
+
+       
+        html, body
+        {
+          background-color: #80b5c5;
+        }
+          html, body
+          {margin: center;
+          }
+            
+          .container {
+            align-items: center;
+            justify-content: center;
+        }
+        
+          
+       
+    h1
+    {
+      font-family: 'Roboto', Georgia, 'Times New Roman', Times, sans-serif;
+      font-weight: 500;
+      margin: 0;
+      text-align: left;
+      }
+  
+    
+ h3
+ {
+  font-family: 'Roboto', Georgia, 'Times New Roman', Times, sans-serif;
+  font-weight: 400;
+   font-size: 1.141em;
+   word-spacing: .54em;
+   margin: 0;
+   text-align: left;
+padding-top: 15px;   
+}
+    
+
+
+
+
+    
+    
